@@ -1,0 +1,6 @@
+name: OITCLeaderboardsExtension
+author: Despical
+version: ${project.version}
+api-version: 1.13
+main: me.despical.oitc.leaderboards.Main
+softdepend: [OITC, PlaceholderAPI]
