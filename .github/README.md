@@ -1,7 +1,7 @@
 # OITC Leaderboards
-An extension for OITC to show top 10 players based on statistic types.
+An extension for [OITC](https://www.github.com/Despical/OITC) to show top 10 players based on statistic types.
 
-### Leaderboard Entries
+## Leaderboard Entries
 To access these placeholders download PlaceholderAPI plugin.
 Index starts from 1 and goes to 10. Replace the numbers with top positions.
 
